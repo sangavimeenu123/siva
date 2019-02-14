@@ -1,5 +1,8 @@
 #include<stdio.h>
 {
 int main()
-print("hello");
+  for(i=0,i<n,i++)
+  {
+    print("hello");
+  }
 }

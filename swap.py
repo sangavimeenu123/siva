@@ -1,5 +1,2 @@
-c=int(input())
-b=int(input())
-c,b=b,c
-print(c,b)
-
+c=list(map(int,input().split()))
+print(c[1],c[0])

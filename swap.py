@@ -1,3 +1,5 @@
 c=int(input())
 b=int(input())
-print(b,c)
+c,b=b,c
+print(c,b)
+

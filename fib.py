@@ -6,4 +6,4 @@ for d in range(1,b):
     d=c+a 
     c=a 
     a=d 
-    print(d)
+    print(d,end' ')

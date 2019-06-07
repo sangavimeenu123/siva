@@ -1,3 +1,3 @@
 b=input()
 for i in b:
-  print(i)
+  print(i,end=' ')

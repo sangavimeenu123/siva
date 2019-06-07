@@ -1,21 +1,21 @@
 b=int(input())
 if(b==1):
-  print("one")
+  print("One")
 if(b==2):
-  print("two")
+  print("Two")
 if(b==3):
-  print("three")
+  print("Three")
 if(b==4):
-  print("four")
+  print("Four")
 if(b==5):
-  print("five")
+  print("Five")
 if(b==6):
-  print("six")
+  print("Six")
 if(b==7):
-  print("seven")
+  print("Seven")
 if(b==8):
-  print("eight")
+  print("Eight")
 if(b==9):
-  print("nine")
+  print("Nine")
 if(b==10):
-  print("ten")  
+  print("Ten")  

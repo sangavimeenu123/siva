@@ -1,3 +1,3 @@
-a=input()
-for i in a:
+b=input()
+for i in b:
   print(i)

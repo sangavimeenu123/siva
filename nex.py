@@ -1,3 +1,3 @@
-n=int(input())
-a=n+1
+v=int(input())
+a=v+1
 print(a)

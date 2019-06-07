@@ -1,5 +1,5 @@
 X,Y=input().split()
-A=int(X)
-B=int(Y)
+b=int(X)
+a=int(Y)
 Z=list(map(int,input().split()))
-print(Z.count(B))
+print(Z.count(a))

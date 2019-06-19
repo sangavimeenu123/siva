@@ -1,5 +1,5 @@
-n,m,l=(input().split())
-n=int(n)
+n=int(input())
+m,l=(input().split())
 m=int(m)
 l=int(l)
 if n<l and n>m:
